@@ -79,6 +79,18 @@ console.log(game.winner, game.replayUrl);
       The real game on a whiteboard, against a person on smashandclash.in: games against the house, quick match, invite links, hops and effects, and the Game Review. Plus a minimal board client and five Node scripts.
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/smashandclash/delta"><img src="https://raw.githubusercontent.com/smashandclash/delta/main/media/hero.png" alt="Smash&Clash on a phone in Delta, a Nintendo DS and a Game Boy Advance" /></a>
+      <h3><a href="https://github.com/smashandclash/delta">🎮 Smash&amp;Clash on Delta, DS and GBA</a></h3>
+      A Nintendo DS game that plays online in Delta, melonDS and on real hardware, with a one-screen Delta skin. Plus a Game Boy Advance game with no network that plays through the SDK, over a bridge in mGBA.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/smashandclash/ppsspp"><img src="https://raw.githubusercontent.com/smashandclash/ppsspp/main/media/hero.png" alt="Smash&Clash on two PSPs: the lobby and a game" /></a>
+      <h3><a href="https://github.com/smashandclash/ppsspp">🕹️ Smash&amp;Clash on the PSP</a></h3>
+      The whole game in PPSSPP or on a real PSP, drawn in 3D by its GPU: the wooden board, the champions, the VS intro and the Game Review. Play by code against a DS, a GBA or the CLI.
+    </td>
+  </tr>
 </table>
 
 ## 🪙 $SMASH
@@ -93,6 +105,8 @@ Paid tournaments built on Smash&Clash use $SMASH only and must state the age rul
 | --- | --- |
 | **[tournament-organizer](https://github.com/smashandclash/tournament-organizer)** | An open-source $SMASH tournament platform built with the SDK |
 | **[tldraw](https://github.com/smashandclash/tldraw)** | Smash&Clash on a tldraw board, plus a minimal client and Node scripts |
+| **[delta](https://github.com/smashandclash/delta)** | Smash&Clash on the Nintendo DS (Delta, melonDS) and the Game Boy Advance (mGBA), with Delta skins |
+| **[ppsspp](https://github.com/smashandclash/ppsspp)** | Smash&Clash on the PSP, in PPSSPP or on real hardware |
 | **[plugin](https://github.com/smashandclash/plugin)** | The Agent Plugin: MCP, six agent skills and a Claude Code mod |
 | **[docs](https://github.com/smashandclash/docs)** | The developer docs at [docs.smashandclash.in](https://docs.smashandclash.in) |
 | **[installers](https://github.com/smashandclash/installers)** | The official Android and Windows installers |
