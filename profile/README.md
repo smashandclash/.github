@@ -97,7 +97,11 @@ console.log(game.winner, game.replayUrl);
       <h3><a href="https://github.com/smashandclash/minecraft">⛏️ Smash&amp;Clash for Minecraft</a></h3>
       A table in your world, for Java (Fabric) and Bedrock: the board unfolds, your hand is in your inventory, the website's animations play on the board and villagers come over to watch. The house, quick match or a room code, against anyone on any client.
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/smashandclash/gtav"><img src="https://raw.githubusercontent.com/smashandclash/gtav/master/media/hero.jpg" alt="A game of Smash&Clash at a table in GTA V" /></a>
+      <h3><a href="https://github.com/smashandclash/gtav">🚗 Smash&amp;Clash in GTA V</a></h3>
+      A FiveM resource any GTA V server can add: sit at a table in Los Santos and the board lies in front of you, your cards standing at your edge. The house, quick match, a room code or the person across the table, against anyone on any client.
+    </td>
   </tr>
 </table>
 
@@ -116,6 +120,7 @@ Paid tournaments built on Smash&Clash use $SMASH only and must state the age rul
 | **[delta](https://github.com/smashandclash/delta)** | Smash&Clash on the Nintendo DS (Delta, melonDS) and the Game Boy Advance (mGBA), with Delta skins |
 | **[ppsspp](https://github.com/smashandclash/ppsspp)** | Smash&Clash on the PSP, in PPSSPP or on real hardware |
 | **[minecraft](https://github.com/smashandclash/minecraft)** | Smash&Clash for Minecraft: a Fabric mod for Java and an add-on for Bedrock |
+| **[gtav](https://github.com/smashandclash/gtav)** | Smash&Clash in GTA V: a FiveM resource for any server |
 | **[plugin](https://github.com/smashandclash/plugin)** | The Agent Plugin: MCP, six agent skills and a Claude Code mod |
 | **[docs](https://github.com/smashandclash/docs)** | The developer docs at [docs.smashandclash.in](https://docs.smashandclash.in) |
 | **[installers](https://github.com/smashandclash/installers)** | The official Android and Windows installers |
