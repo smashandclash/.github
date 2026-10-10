@@ -91,6 +91,14 @@ console.log(game.winner, game.replayUrl);
       The whole game in PPSSPP or on a real PSP, drawn in 3D by its GPU: the wooden board, the champions, the VS intro and the Game Review. Play by code against a DS, a GBA or the CLI.
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/smashandclash/minecraft"><img src="https://raw.githubusercontent.com/smashandclash/minecraft/main/media/hero.png" alt="Smash&Clash on a table in a Minecraft world" /></a>
+      <h3><a href="https://github.com/smashandclash/minecraft">⛏️ Smash&amp;Clash for Minecraft</a></h3>
+      A table in your world, for Java (Fabric) and Bedrock: the board unfolds, your hand is in your inventory, the website's animations play on the board and villagers come over to watch. The house, quick match or a room code, against anyone on any client.
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 ## 🪙 $SMASH
@@ -107,6 +115,7 @@ Paid tournaments built on Smash&Clash use $SMASH only and must state the age rul
 | **[tldraw](https://github.com/smashandclash/tldraw)** | Smash&Clash on a tldraw board, plus a minimal client and Node scripts |
 | **[delta](https://github.com/smashandclash/delta)** | Smash&Clash on the Nintendo DS (Delta, melonDS) and the Game Boy Advance (mGBA), with Delta skins |
 | **[ppsspp](https://github.com/smashandclash/ppsspp)** | Smash&Clash on the PSP, in PPSSPP or on real hardware |
+| **[minecraft](https://github.com/smashandclash/minecraft)** | Smash&Clash for Minecraft: a Fabric mod for Java and an add-on for Bedrock |
 | **[plugin](https://github.com/smashandclash/plugin)** | The Agent Plugin: MCP, six agent skills and a Claude Code mod |
 | **[docs](https://github.com/smashandclash/docs)** | The developer docs at [docs.smashandclash.in](https://docs.smashandclash.in) |
 | **[installers](https://github.com/smashandclash/installers)** | The official Android and Windows installers |
